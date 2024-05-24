@@ -1,0 +1,20 @@
+# ninja log v5
+3	115	1713596278225373434	CMakeFiles/net.dir/src/net/src/tcp.c.o	ee36aff81c1897fe
+3	191	1713586390715753291	CMakeFiles/net.dir/src/net/src/ipv4.c.o	e31068b73bd8348b
+2	195	1713586390720393919	CMakeFiles/net.dir/src/net/src/arp.c.o	c92d65a12f954606
+115	218	1713596278328852172	net	5bbc5b33e5ff87cb
+155	283	1713024915303629683	CMakeFiles/net.dir/src/net/src/udp.c.o	63c31f654242565b
+5	135	1713024915151400693	CMakeFiles/net.dir/src/main.c.o	6c3f13c1bbbf64c4
+4	139	1713586390670125072	CMakeFiles/net.dir/src/net/src/net.c.o	1f245721fa281a96
+6	187	1713024915204346975	CMakeFiles/net.dir/src/net/src/ether.c.o	9a09e703a6e465c2
+4	183	1713024915199882920	CMakeFiles/net.dir/src/comm/queue.c.o	8da71e3e647db5e
+3	132	1713024915149385407	CMakeFiles/net.dir/src/app/src/ping.c.o	acc9605ec21f5b16
+135	251	1713024915270947176	CMakeFiles/net.dir/src/net/src/package.c.o	aa7e3a6db6df3d4f
+183	316	1713024915338166192	CMakeFiles/net.dir/src/plat/sys_plat.c.o	9ef6dbb5697a3a2e
+6	140	1713024915157225219	CMakeFiles/net.dir/src/net/src/icmp.c.o	f77443fbb7638644
+141	273	1713024915294489887	CMakeFiles/net.dir/src/net/src/timer.c.o	f33fc87b9320ff79
+4	155	1713024915176128560	CMakeFiles/net.dir/src/comm/tool.c.o	e067872a786ef592
+0	107	1716563697370848107	build.ninja	221e60422a9d1211
+3	139	1713024915156446045	CMakeFiles/net.dir/src/comm/list.c.o	716a6be6907af1f3
+8	188	1713024915204084833	CMakeFiles/net.dir/src/net/src/loop.c.o	e1df33fe1c1b7290
+0	96	1709829731302366510	CMakeFiles/net.dir/src/comm/log.c.o	ec483f85b36068d0
